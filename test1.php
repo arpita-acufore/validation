@@ -1,3 +1,4 @@
 <?php
-echo "this page is for testing1";
+
+echo "this page is for testing ";
 ?>
