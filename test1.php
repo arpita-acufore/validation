@@ -1,4 +1,4 @@
 <?php
 
-echo "this page is for testing ";
+echo "this is the testing for feature branch ..";
 ?>
