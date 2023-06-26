@@ -1,4 +1,3 @@
 <?php
-
-echo "this is the testing for feature branch but without merging ..";
+echo "this is the testing for test branch.";
 ?>
